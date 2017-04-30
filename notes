@@ -1,0 +1,27 @@
+Setup Bower and Grunt:
+  npm install -S grunt grunt-contrib-uglify grunt-bower-concat
+
+Create Gruntfile:
+  Gruntfile.js
+
+Setup Bower:
+  bower init
+
+Write Gruntfile contents (see Gruntfile)
+
+Run Grunt to make sure there are no errors:
+  grunt
+
+Install jQuery and Backbone:
+  bower install -S jquery backbone
+
+Run Grunt again to execute Gruntfile:
+  grunt
+
+Create index page, with concatenated Grunt file in place of vendor files.
+
+Install Handlebars as a Bower component:
+  bower install -S handlebars
+
+Run Grunt again to execute Gruntfile:
+  grunt

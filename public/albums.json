@@ -1,0 +1,55 @@
+[{
+  "artist": "Led Zeppelin",
+  "title": "Led Zeppelin",
+  "url": "https://itunes.apple.com/us/album/led-zeppelin-remastered/id580708520",
+  "date": "Jan 12, 1969",
+  "cover": "/images/led_zep_i.png"
+}, {
+  "artist": "Led Zeppelin",
+  "title": "Led Zeppelin II",
+  "url": "https://itunes.apple.com/us/album/led-zeppelin-ii-remastered/id580708374",
+  "date": "Oct 22, 1969",
+  "cover": "/images/led_zep_ii.jpg"
+}, {
+  "artist": "Led Zeppelin",
+  "title": "Led Zeppelin III",
+  "url": "https://itunes.apple.com/us/album/led-zeppelin-iii-remastered/id580708279",
+  "date": "Oct 05, 1970",
+  "cover": "/images/led_zep_iii.png"
+}, {
+  "artist": "Led Zeppelin",
+  "title": "Led Zeppelin IV",
+  "url": "https://itunes.apple.com/us/album/led-zeppelin-iv-remastered/id580708175",
+  "date": "Nov 08, 1971",
+  "cover": "/images/led_zep_iv.jpg"
+}, {
+  "artist": "Led Zeppelin",
+  "title": "Houses Of The Holy",
+  "url": "https://itunes.apple.com/us/album/houses-of-the-holy-remastered/id580707916",
+  "date": "Mar 28, 1973",
+  "cover": "/images/houses_of_the_holy.jpg"
+}, {
+  "artist": "Led Zeppelin",
+  "title": "Physical Graffiti",
+  "url": "https://itunes.apple.com/us/album/physical-graffiti-remastered/id580707980",
+  "date": "Feb 24, 1975",
+  "cover": "/images/physical_graffiti.jpg"
+}, {
+  "artist": "Led Zeppelin",
+  "title": "Presence",
+  "url": "https://itunes.apple.com/us/album/presence-remastered/id580707889",
+  "date": "Mar 31, 1976",
+  "cover": "/images/presence.jpg"
+}, {
+  "artist": "Led Zeppelin",
+  "title": "In Through The Out Door",
+  "url": "https://itunes.apple.com/us/album/in-through-out-door-remastered/id580707622",
+  "date": "Aug 15, 1979",
+  "cover": "/images/in_through_the_out_door.jpg"
+}, {
+  "artist": "Led Zeppelin",
+  "title": "Coda",
+  "url": "https://itunes.apple.com/us/album/coda-remastered/id580707666",
+  "date": "Nov 19, 1982",
+  "cover": "/images/coda.jpg"
+}]
