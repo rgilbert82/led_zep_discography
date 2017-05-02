@@ -16,7 +16,7 @@ http.createServer(function (request, response) {
             }
         });
     }).resume();
-}).listen(3000);
+}).listen(process.env.PORT || 3000);
 
 //  sInstalled jasmine-node, node-static, and nodemon dependencies
 //  Start server with: npm start
